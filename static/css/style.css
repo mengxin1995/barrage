@@ -3,6 +3,10 @@ body {
     font-family: "proxima-nova","Helvetica Neue","Helvetica","sans-serif";
 }
 
+.text{
+    font-size: 18px;
+}
+
 .bb-js .navbar-inverse {
     background-color: #477e84;
     border-color: #3b696e;
@@ -317,4 +321,3 @@ body {
 .bb-light-blue {
     background-color: #54949B;
 }
- 
